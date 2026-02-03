@@ -1,0 +1,51 @@
+[
+  {
+    "id": "DF-001",
+    "name": "Hito Hito no Mi, Model: Nika",
+    "type": "Mythical Zoan",
+    "awakening": true,
+    "description": "Grants the user a body with properties of rubber and the power of the Sun God Nika."
+  },
+  {
+    "id": "DF-002",
+    "name": "Hito Hito no Mi",
+    "type": "Zoan",
+    "awakening": false,
+    "description": "Allows an animal to gain human intelligence and form."
+  },
+  {
+    "id": "DF-003",
+    "name": "Hana Hana no Mi",
+    "type": "Paramecia",
+    "awakening": true,
+    "description": "Allows the user to sprout body parts from any surface."
+  },
+  {
+    "id": "DF-004",
+    "name": "Ope Ope no Mi",
+    "type": "Paramecia",
+    "awakening": true,
+    "description": "Allows the user to create a surgical room to manipulate objects and people."
+  },
+  {
+    "id": "DF-005",
+    "name": "Jiki Jiki no Mi",
+    "type": "Paramecia",
+    "awakening": true,
+    "description": "Grants control over magnetic forces."
+  },
+  {
+    "id": "DF-006",
+    "name": "Uo Uo no Mi, Model: Seiryu",
+    "type": "Mythical Zoan",
+    "awakening": true,
+    "description": "Allows transformation into a powerful azure dragon."
+  },
+  {
+    "id": "DF-007",
+    "name": "Soru Soru no Mi",
+    "type": "Paramecia",
+    "awakening": true,
+    "description": "Allows manipulation of human souls."
+  }
+]
