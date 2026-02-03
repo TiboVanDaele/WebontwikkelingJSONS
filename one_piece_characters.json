@@ -6,15 +6,15 @@
     "age": 19,
     "isActive": true,
     "birthDate": "2000-05-05",
-    "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/5/50/Monkey_D._Luffy_Portrait.png",
-    "status": "Pirate",
+    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/Luffy.jpg",
+    "status": "Yonko",
     "hobbies": ["Eating", "Adventuring", "Fighting"],
     "devilFruit": {
       "id": "DF-001",
       "name": "Hito Hito no Mi, Model: Nika",
       "type": "Mythical Zoan",
       "awakening": true,
-      "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/8/8e/Hito_Hito_no_Mi_Model_Nika.png"
+      "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/HitoHitoNoMiModelNika.jpg"
     }
   },
   {
@@ -24,7 +24,7 @@
     "age": 21,
     "isActive": true,
     "birthDate": "1999-11-11",
-    "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/1/1b/Roronoa_Zoro_Portrait.png",
+    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/Zoro.jpg",
     "status": "Pirate",
     "hobbies": ["Training", "Drinking", "Sleeping"],
     "devilFruit": {
@@ -42,7 +42,7 @@
     "age": 20,
     "isActive": true,
     "birthDate": "2001-07-03",
-    "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/f/f6/Nami_Portrait.png",
+    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/Nami.jpgg",
     "status": "Pirate",
     "hobbies": ["Drawing Maps", "Shopping", "Money"],
     "devilFruit": {
@@ -60,7 +60,7 @@
     "age": 21,
     "isActive": true,
     "birthDate": "1999-03-02",
-    "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/a/a4/Sanji_Portrait.png",
+    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/sanji.jpg",
     "status": "Pirate",
     "hobbies": ["Cooking", "Flirting", "Smoking"],
     "devilFruit": {
@@ -78,7 +78,7 @@
     "age": 17,
     "isActive": true,
     "birthDate": "2001-12-24",
-    "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/9/9c/Tony_Tony_Chopper_Portrait.png",
+    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/Chopper.jpg",
     "status": "Pirate",
     "hobbies": ["Medicine", "Research", "Cotton Candy"],
     "devilFruit": {
@@ -86,7 +86,7 @@
       "name": "Hito Hito no Mi",
       "type": "Zoan",
       "awakening": false,
-      "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3e/Hito_Hito_no_Mi.png"
+      "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/HitoHitoNoMi.jpg"
     }
   },
   {
@@ -96,7 +96,7 @@
     "age": 30,
     "isActive": true,
     "birthDate": "1990-02-06",
-    "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Nico_Robin_Portrait.png",
+    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/Robin.jpg",
     "status": "Pirate",
     "hobbies": ["Reading", "History", "Archaeology"],
     "devilFruit": {
@@ -104,7 +104,7 @@
       "name": "Hana Hana no Mi",
       "type": "Paramecia",
       "awakening": true,
-      "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/6/6d/Hana_Hana_no_Mi.png"
+      "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/HanaHanaNoMi.jpg"
     }
   },
 
@@ -115,7 +115,7 @@
     "age": 26,
     "isActive": true,
     "birthDate": "1994-10-06",
-    "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/e/e8/Trafalgar_Law_Portrait.png",
+    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/Law.jpg",
     "status": "Pirate",
     "hobbies": ["Medicine", "Strategy"],
     "devilFruit": {
@@ -123,7 +123,7 @@
       "name": "Ope Ope no Mi",
       "type": "Paramecia",
       "awakening": true,
-      "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/0/0b/Ope_Ope_no_Mi.png"
+      "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/OpeOpeNoMi.jpg"
     }
   },
 
@@ -134,7 +134,7 @@
     "age": 23,
     "isActive": true,
     "birthDate": "1997-01-10",
-    "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/2/2f/Eustass_Kid_Portrait.png",
+    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/Kid.jpg",
     "status": "Pirate",
     "hobbies": ["Fighting", "Collecting Weapons"],
     "devilFruit": {
@@ -142,7 +142,7 @@
       "name": "Jiki Jiki no Mi",
       "type": "Paramecia",
       "awakening": true,
-      "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/4/4a/Jiki_Jiki_no_Mi.png"
+      "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/JikiJikiNoMi.jpg"
     }
   },
 
@@ -153,7 +153,7 @@
     "age": 59,
     "isActive": false,
     "birthDate": "1961-05-01",
-    "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/3/3d/Kaido_Portrait.png",
+    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/Kaido.jpg",
     "status": "Yonko",
     "hobbies": ["Drinking", "War"],
     "devilFruit": {
@@ -161,7 +161,7 @@
       "name": "Uo Uo no Mi, Model: Seiryu",
       "type": "Mythical Zoan",
       "awakening": true,
-      "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/5/5d/Uo_Uo_no_Mi_Model_Seiryu.png"
+      "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/UoUoNoMiModelSeiryu.jpg"
     }
   },
 
@@ -172,7 +172,7 @@
     "age": 68,
     "isActive": false,
     "birthDate": "1953-02-15",
-    "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/1/1f/Big_Mom_Portrait.png",
+    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/BigMom.jpg",
     "status": "Yonko",
     "hobbies": ["Eating Sweets", "Collecting Species"],
     "devilFruit": {
@@ -180,7 +180,7 @@
       "name": "Soru Soru no Mi",
       "type": "Paramecia",
       "awakening": true,
-      "imageUrl": "https://static.wikia.nocookie.net/onepiece/images/9/9b/Soru_Soru_no_Mi.png"
+      "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/SoruSoruNoMi.jpg"
     }
   }
 ]
