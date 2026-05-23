@@ -42,7 +42,7 @@
     "age": 20,
     "isActive": true,
     "birthDate": "2001-07-03",
-    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/Nami.jpgg",
+    "imageUrl": "https://raw.githubusercontent.com/TiboVanDaele/WebontwikkelingJSONS/refs/heads/main/img/Nami.jpg",
     "status": "Pirate",
     "hobbies": ["Drawing Maps", "Shopping", "Money"],
     "devilFruit": {
